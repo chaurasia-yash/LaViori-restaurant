@@ -1,0 +1,109 @@
+#title {
+  background-color: #000000;
+  color: white;
+}
+
+body {
+  font-family: Montserrat;
+}
+
+.navbar-brand {
+  color: #F2CB05;
+  font-family: Luxurious Script;
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.nav-item {
+  padding: 0 1.5rem;
+}
+
+h1 {
+  font-weight: 900;
+  font-family: Playfair;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+.download-button {
+  margin: 5% 3% 3% 0;
+}
+
+.container-fluid {
+  padding: 4% 15%;
+}
+
+.food2{
+  /* border-radius: 5%; */
+  /* width: 125%; */
+  background-image: url("food2.jpg");
+  background-repeat: no-repeat;
+  background-size: 125%;
+  /* margin: 30px 0 0 0; */
+}
+
+/* #features {
+} */
+
+.feature-box{
+  text-align: center;
+  padding: 0 5%;
+}
+
+.testimonial {
+  font-family: Cormorant Garamond;
+  font-size: 1.75rem;
+  font-weight: 900;
+}
+
+#reviews{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+h2{
+  text-align: center;
+  padding-top: 40px;
+  font-family: Luxurious Script;
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+.menu {
+  padding: 0 0 15% 0;
+  width: 125%;
+}
+
+#offers{
+  padding: 7% 15% 0 15%;
+}
+
+.offer {
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: black;
+  color: white;
+}
+
+form {
+  padding: 7% 0;
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+
+.form-group {
+  padding-bottom: 10px;
+}
